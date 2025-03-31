@@ -4121,7 +4121,7 @@ vulture = "^2.11"
 type = "git"
 url = "https://github.com/radoss-org/retuve.git"
 reference = "HEAD"
-resolved_reference = "4e42d5d422d659f9950fe4c5e5d62e1a12db9d8d"
+resolved_reference = "fd4d10fd1bfa9ee8dd148e0af27dabbec2e12840"
 
 [[package]]
 name = "rich"
