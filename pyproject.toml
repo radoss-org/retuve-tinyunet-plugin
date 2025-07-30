@@ -13,7 +13,6 @@ build-backend = "poetry.core.masonry.api"
 python = ">=3.10,<3.13"
 retuve = { git = "https://github.com/radoss-org/retuve.git" }
 pytest-xdist = "^3.6.1"
-uvicorn = "^0.34.0"
 black = "^25.1.0"
 stem-cv = { git = "https://github.com/nidus-lab/stem-cv.git" }
 batchgenerators = "^0.25.1"
